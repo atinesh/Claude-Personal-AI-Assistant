@@ -1,0 +1,4 @@
+.venv/
+credential.json
+token.pickle
+__pycache__/
